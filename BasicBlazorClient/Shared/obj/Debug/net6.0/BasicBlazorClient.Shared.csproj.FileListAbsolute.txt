@@ -1,0 +1,12 @@
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\bin\Debug\net6.0\BasicBlazorClient.Shared.deps.json
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\bin\Debug\net6.0\BasicBlazorClient.Shared.dll
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\bin\Debug\net6.0\BasicBlazorClient.Shared.pdb
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.csproj.AssemblyReference.cache
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.AssemblyInfoInputs.cache
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.AssemblyInfo.cs
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.csproj.CoreCompileInputs.cache
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.dll
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\refint\BasicBlazorClient.Shared.dll
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\BasicBlazorClient.Shared.pdb
+C:\desktop\temwork\WD_Project\learning_assem_frombook\BasicBlazorClient\BasicBlazorClient\Shared\obj\Debug\net6.0\ref\BasicBlazorClient.Shared.dll
